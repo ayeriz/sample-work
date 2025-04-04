@@ -1,0 +1,9 @@
+s = "GeeksforGeeks"
+# G   e   e   k   s  f  o  r  G  e  e  k  s
+#-13 -12 -11 -10 -9 -8 -7 -6 -5 -4 -3 -2 -1
+
+# Accesses 3rd character: 'k'
+print(s[-10])  
+
+# Accesses 5th character from end: 'G'
+print(s[-5]) 
